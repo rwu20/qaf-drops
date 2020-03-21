@@ -1,18 +1,22 @@
+Known reputable/reliable sources for accurate, current tech news, in roughly descending order of tech-centricity:
 arstechnica.com
+technews.acm.org
 www.technologyreview.com
+www.sciencemag.org
+www.scientificamerican.com
+www.smithsonianmag.com
 www.economist.com
 www.nytimes.com
-www.bbc.com
 www.forbes.com
 www.washingtonpost.com
 www.bloomberg.com
-www.smithsonianmag.com
-www.sciencemag.org
+www.bbc.com
+
 
 these look perfect for DD:
 https://www.wsj.com/articles/you-might-be-buying-trash-on-amazonliterally-11576599910
 https://www.sciencemag.org/news/2019/12/rivers-could-generate-thousands-nuclear-power-plants-worth-energy-thanks-new-blue
 
 best to avoid:
-any site with autoplay vids or other trash
+any site with autoplay videos or other low signal-to-noise ratio
 cnet.com
