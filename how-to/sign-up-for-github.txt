@@ -1,0 +1,8 @@
+So you want a GitHub account? Good on ya.
+
+* Use your stuy.edu account to sign up.
+* Pick a username you are comfortable with colleges and potential employers seeing, and that represents you and Stuy well.
+* Set your display name to the name you go by.
+* Let your password manager choose a long (>30chars) password and save your login/pass combo.
+* Log out of github, log back in to test your password and password manager.
+
