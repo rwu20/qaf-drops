@@ -1,0 +1,37 @@
+Team <TeamName> 
+<Member0> and sidekick <Ducky0>
+<Member1> and sidekick <Ducky1>
+<Member2> and sidekick <Ducky2>
+IntroCS pd<#>
+Spring 2020
+
+
+Notable observations made while reading lab0 reports:
+--------------------------------------------
+
+============================================
+
+
+List of teams to whom comments were submitted:
+--------------------------------------------
+
+============================================
+
+
+List of teams visited:
+--------------------------------------------
+
+============================================
+
+
+Notable feedback received (and from whom):
+--------------------------------------------
+
+============================================
+
+
+Suggestions for improved structuring of lab guide:
+--------------------------------------------
+
+============================================
+
